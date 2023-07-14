@@ -17,3 +17,5 @@
 | 10  | [Определение стоимости автомобилей](https://github.com/step8rother/Yandex_Practicum_Data_Scientist/tree/main/10%20Численные%20методы) | Необходимо построить быструю и точную модель определения стоимости авто | Python, Pandas, предобработка данных, ML и градиентный бустинг |
 | 11  | [Прогнозирование заказов такси](https://github.com/step8rother/Yandex_Practicum_Data_Scientist/tree/main/11%20Временные%20ряды) | Необходимо построить модель прогноза количества заказов такси на следующий час | Python, Pandas, ML, анализ временных рядов |
 | 12  | [Машинное обучение для текстов](https://github.com/step8rother/Yandex_Practicum_Data_Scientist/tree/main/12%20Машинное%20обучение%20для%20текстов) | Необходимо обучить модель классифицировать комментарии на позитивные и негативные | ML, TF-IDF |
+| 13  | [Базовый SQL](https://github.com/step8rother/Yandex_Practicum_Data_Scientist/tree/main/13%20Базовый%20SQL) | ____ | ____ |
+| 14  | [Компьютерное зрение](https://github.com/step8rother/Yandex_Practicum_Data_Scientist/tree/main/14%20Компьютерное%20зрение) | ____ | ____ |
